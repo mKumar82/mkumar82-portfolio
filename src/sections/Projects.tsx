@@ -6,7 +6,7 @@ export default function Projects() {
   return (
     <section
       id="projects"
-      className="scroll-mt-28 py-20 bg-linear-to-b from-black via-gray-900 to-black text-white px-6"
+      className="py-20 bg-linear-to-b from-black via-gray-900 to-black text-white px-6"
     >
       <div className="max-w-7xl mx-auto">
         {/* HEADING */}

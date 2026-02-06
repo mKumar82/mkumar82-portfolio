@@ -8,7 +8,7 @@ export default function Contact() {
   return (
     <section
       id="contact"
-      className="scroll-mt-28 py-20 bg-linear-to-b from-black via-gray-900 to-black text-white px-6"
+      className="py-20 bg-linear-to-b from-black via-gray-900 to-black text-white px-6"
     >
       {/* HEADING */}
       <motion.div
